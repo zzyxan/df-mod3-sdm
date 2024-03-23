@@ -1,0 +1,7 @@
+
+    Directory: C:\Users\zzyxa\OneDrive\Desktop\Digital Forensics Autopsy\df-mod3-sdm
+
+Path      Owner                 Access
+----      -----                 ------
+Exercise3 DESKTOP-ALPRNNS\zzyxa BUILTIN\Users Allow  Modify, Synchronize…
+
