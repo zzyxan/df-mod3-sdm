@@ -18,8 +18,7 @@
 ### 4. Code to export data to a CSV File
 #### 'get-content "C:\Users\zzyxa\OneDrive\Desktop\Digital Forensics Autopsy\df-mod3-sdm\Exercise2\Acl-Logs-csv.txt" | export-csv "C:\Users\zzyxa\OneDrive\Desktop\Digital Forensics Autopsy\df-mod3-sdm\Exercise2\Acl-Logs-csv.csv"'
 ## Exercise3
-### I had a lot of trouble understanding this exercise, I wasn't able to really get why you would want to store a password as a secure string, and couldn't convert any files or directories to secure strings, furthermore I wasn't able to modify the 
-### permissions for any files or directories, everything I read online had me use variables which I don't understand. I've done my best to answer the questions. But at this time I've hit a roadblock.
+### I had a lot of trouble understanding this exercise, I wasn't able to really get why you would want to store a password as a secure string, and couldn't convert any files or directories to secure strings, furthermore I wasn't able to modify the permissions for any files or directories, everything I read online had me use variables which I don't understand. I've done my best to answer the questions. But at this time I've hit a roadblock.
 ### 1. Code to convert a string to a secure string 
 #### 'ConvertTo-SecureString "Password" -AsPlainText -Force'
 ### 2. Code to retrieve the ACL for a directory
